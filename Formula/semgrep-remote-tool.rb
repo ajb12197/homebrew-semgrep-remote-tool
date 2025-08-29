@@ -1,8 +1,8 @@
 class Semgrep-remote-tool < Formula
     desc "Automated Semgrep update and rules checking"
     homepage "https://github.com/ajbutt/"
-    url https://github.com//ajbutt/semgrep-remote-tool/releases/download/v12.19.7/semgrep-remote-tool-12.19.7.tar.gz"
-    sha256 "ca7a73aa046d83e9ada2aaa1b0e3eead6c902c9eff4b630aee44cd3449f2e555"
+    url https://github.com/ajbutt/semgrep-remote-tool/releases/download/v12.19.7/semgrep-remote-tool-12.19.7.tar.gz"
+    sha256 "ea4ffa053385a6ebc746d039f246f779a68e2d847efb0703168fb7c295c2a599"
     version "12.19.7"
 
     def install
