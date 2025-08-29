@@ -1,4 +1,4 @@
-class Semgrep-remote-tool < Formula
+class Semgrepremotetool < Formula
     desc "Automated Semgrep update and rules checking"
     homepage "https://github.com/ajbutt/"
     url "https://github.com/ajbutt/semgrep-remote-tool/releases/download/v12.19.7/semgrep-remote-tool-12.19.7.tar.gz"
